@@ -1,7 +1,9 @@
 body {
-    background-color: aqua;
+    background-color: pink;
 }
 
 body {
     background-image: url(Wk_1/image/winter.jpg);
+    background-repeat: no-repeat;
+        
 }
