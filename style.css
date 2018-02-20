@@ -1,9 +1,17 @@
 body {
+<<<<<<< HEAD
     background-color: pink;
+=======
+    background-color: red;
+>>>>>>> 698db467dbbfea244bacb67e6c569ce8922f41a7
 }
 
 body {
     background-image: url(Wk_1/image/winter.jpg);
     background-repeat: no-repeat;
         
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 698db467dbbfea244bacb67e6c569ce8922f41a7
